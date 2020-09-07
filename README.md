@@ -6,7 +6,7 @@ The MIT license is a free license that applies minimal restrictions to a piece o
 
 <h3>The Unlicense</h3>
 
-The Unlicense is a license that disclaims copyright with the associated piece of work. This is a public domain license meaning it waives the creators rights to the associated piece of work. This license gives all users freedom to do whatever they want to the piece of work. This includes modifying, copying, selling, distributing for commercial or non-commercial reasons. 
+The Unlicense is a license that disclaims copyright with the associated piece of work. This is a public domain license meaning it waives the creators rights to the associated piece of work. This license gives all users freedom to do whatever they want to the piece of work. This includes modifying, copying, selling, distributing for commercial or non-commercial reasons.  Essentially this means that the work does not have a license, so it follows the copyright protection act, disabling others from using the work without a license.
 
 <h3>Apache License 2.0</h3>
 
